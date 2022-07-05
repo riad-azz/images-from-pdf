@@ -10,8 +10,8 @@ Simple GUI app to extract images from PDF files
 
 ## How to Use
 
-1-Select the PDF file path
+1-Select the PDF file
 
-2-Select the directory you would like to save the images to
+2-Select the folder you would like to save the images to
 
 3-Press Extract
